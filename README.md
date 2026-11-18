@@ -1,15 +1,28 @@
-## Welcome To My Bio 👋
+# Hey, I'm Kohner! 👋
 
-<!--
-**KJsync/KJsync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Computer Science student at Old Dominion University, working toward my bachelor's degree.
 
-Here are some ideas to get you started:
+I originally didn't realize how much I'd enjoy working with computers until I started taking computer science courses. Since then, I've become interested in software development, programming, and learning how different computer systems work.
 
-- 🔭 I’m currently not working on any projects right now and I hope to start another one soon spring 2027.
-- 🌱 I’m currently learning the computer architecture structure of a computer as well as Objects Oriented Programs and designs.
-- 🤔 I’m looking for help with finding a good company to intern and work with after college.
-- 💬 Ask me about what made me major in computer science or what I'm looking for after college.
-- 📫 How to reach me: You can email me on my student account Kstul002@odu.edu.
-- 😄 Pronouns: I don't have any pronouns, but if I'm a male so I suppose I go by He/Him.
-- ⚡ Fun fact: I didn't know I would love computers more until I started taking computer science classes!
--->
+### 💻 What I'm Learning
+- Object-Oriented Programming and Design
+- Java and C++
+- Computer Architecture
+- Data Structures and Algorithms
+- Software Development Practices
+
+### 🔨 What I'm Working On
+- Building my programming skills through coursework and personal projects
+- Uploading some of my previous college programming assignments to GitHub
+- Working on new projects to gain more hands-on experience
+
+### 🎯 My Goals
+I'm looking for software engineering internship opportunities where I can gain real-world experience, work with other developers, and continue improving my skills.
+
+### 🎮 A Little About Me
+- I enjoy gaming and learning about technology.
+- I like figuring out how programs work and finding ways to improve them.
+- I'm always interested in learning something new.
+
+### 📫 Contact Me
+**Email:** Kstul002@odu.edu
